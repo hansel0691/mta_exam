@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.Data", "Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.UI", "DataStructures.UI\DataStructures.UI.csproj", "{24E8EB17-BC03-4965-B869-2C08037D6D8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.API", "DataStructures.API\DataStructures.API.csproj", "{5F8D5FE4-8084-4827-9867-EE1A74E17E97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{24E8EB17-BC03-4965-B869-2C08037D6D8A}.Release|x64.Build.0 = Release|Any CPU
 		{24E8EB17-BC03-4965-B869-2C08037D6D8A}.Release|x86.ActiveCfg = Release|Any CPU
 		{24E8EB17-BC03-4965-B869-2C08037D6D8A}.Release|x86.Build.0 = Release|Any CPU
+		{5F8D5FE4-8084-4827-9867-EE1A74E17E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F8D5FE4-8084-4827-9867-EE1A74E17E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F8D5FE4-8084-4827-9867-EE1A74E17E97}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5F8D5FE4-8084-4827-9867-EE1A74E17E97}.Debug|x64.Build.0 = Debug|Any CPU
+		{5F8D5FE4-8084-4827-9867-EE1A74E17E97}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5F8D5FE4-8084-4827-9867-EE1A74E17E97}.Debug|x86.Build.0 = Debug|Any CPU
+		{5F8D5FE4-8084-4827-9867-EE1A74E17E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F8D5FE4-8084-4827-9867-EE1A74E17E97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F8D5FE4-8084-4827-9867-EE1A74E17E97}.Release|x64.ActiveCfg = Release|Any CPU
+		{5F8D5FE4-8084-4827-9867-EE1A74E17E97}.Release|x64.Build.0 = Release|Any CPU
+		{5F8D5FE4-8084-4827-9867-EE1A74E17E97}.Release|x86.ActiveCfg = Release|Any CPU
+		{5F8D5FE4-8084-4827-9867-EE1A74E17E97}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
